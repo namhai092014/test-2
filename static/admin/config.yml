@@ -7,8 +7,6 @@ collections:
   - name: 'posts'
     label: 'Posts'
     folder: 'content/blog'
-    media_folder: 'static/images/post'
-    public_folder: 'images/post'
     create: true
     slug: '{{slug}}'
     fields:
@@ -24,8 +22,6 @@ collections:
   - name: 'about'
     label: 'About'
     folder: 'content/about'
-    media_folder: 'static/images'
-    public_folder: 'images'
     create: true
     slug: '{{slug}}'
     fields:
