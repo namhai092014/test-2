@@ -10,7 +10,7 @@ collections:
     media_folder: 'static/images/post'
     public_folder: 'images/post'
     create: true
-    path: '{{slug}}'
+    slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
