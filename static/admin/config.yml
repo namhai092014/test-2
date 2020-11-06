@@ -32,9 +32,9 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: true}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'contract'
-    label: 'Contract'
-    folder: 'content/contract'
+  - name: 'contact'
+    label: 'Contact'
+    folder: 'content/contact'
     create: true
     slug: '{{slug}}'
     fields:
