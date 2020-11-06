@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://testmecap2.netlify.app/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
+title = "Marathon Earner Capital Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -45,33 +45,33 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "Về chúng tôi"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Post"
+  name = "Bài viết"
   URL = "blog"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "Liên hệ"
   URL = "contact"
   weight = 3
 
   # footer menu
   [[menu.footer]]
-  name = "About"
+  name = "Về chúng tôi"
   URL = "about"
   weight = 1
 
   [[menu.footer]]
-  name = "Post"
+  name = "Bài viết"
   URL = "blog"
   weight = 2
 
   [[menu.footer]]
-  name = "Contact"
+  name = "Liên hệ"
   URL = "contact"
   weight = 3
 
@@ -79,18 +79,18 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/logo.jpg"
-home = "Home"
+home = "Trang chủ"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "G-65T05ZTTYJ"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "0368885223/0398238198"
+email = "mecaptrading1@email.com"
+location = "Hanoi, Vietnam"
 # copyright
-copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2020 [Mecap] All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -104,8 +104,8 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+title = "Tham gia cùng chúng tôi"
+content = "Mecap luôn luôn phát triển và mở rộng, do đó chúng tôi luôn luôn chào đón những cơ hội hợp tác mới. Hãy đăng ký hợp tác cùng chúng tôi và chúng tôi sẽ cập nhật những thông tin mới nhất cho bạn, nhanh nhất có thể!"
 
 
 # cookies
@@ -116,26 +116,11 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "email"
+icon = "ti-email" # themify icon : https://themify.me/themify-icons
+link = "mailto:mecaptrading1@gmail.com"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "telegram"
+icon = "ti-location-arrow" # themify icon : https://themify.me/themify-icons
+link = "https://t.me/mecaptrading"
