@@ -52,96 +52,65 @@ Từ tháng 10, vì mục đích tạo cho nhà đầu tư 1 cái nhìn trực q
 
 ##### Paragraph
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+
+
+# Chính sách với quý nhà đầu tư
+
+###### Sơ lược:
+
+* Lợi nhuận dành cho quý nhà đầu tư:\
+  \
+  - Từ 5 ~ 25%/tháng. \
+  - Nếu lợi nhuận tháng thấp hơn mức tối thiểu là 5% thì MECAP sẽ không tính cổ tức. Nếu lợi nhuận tháng cao hơn mức tối đa là 25%, MECAP xứng đáng hưởng phần dư vì đã giúp nhà đầu tư đạt mức lợi nhuận cao nhất của trong tháng.\
+  - Các số liệu tài khoản sẽ được tổng kết hàng tháng và lợi nhuận sẽ trả về cho nhà đầu tư mỗi quý (3 tháng 1 lần).
+
+Lưu ý: Theo quá trình tăng trưởng của quỹ, lợi nhuận tối đa hàng tháng trả về sẽ có thể thay đổi. Lí do là vì MECAP cần đảm bảo an toàn về tài sản cho nhà đầu tư, do vậy % khối lượng giao dịch/tổng tài khoản cần phải nhỏ hơn.
+
+* Chia sẻ lợi nhuận với quỹ và đội ngũ quản lý:
+
+  \- Quý nhà đầu tư đồng ý chia sẻ 32% lợi nhuận từ khoản đầu tư của mình.
+* Cam kết rủi ro dành cho nhà đầu tư:
+
+  \- Cam kết tổng kết quý (3 tháng) có lợi nhuận tối thiểu 1%.\
+  - Cam kết tổng kết tháng không lỗ quá 12% tài khoản đầu tư (nếu có). \
+  - Nếu trong bất kỳ thời điểm nào của quá trình uỷ thác, tài khoản của nhà đầu tư giảm xuống dưới 75% thì nhà đầu tư có thể đơn phương chấm dứt hợp đồng uỷ thác (tương đương mức lỗ là 25%).\
+  - Nếu tài khoản của nhà đầu tư giảm xuống dưới 50% thì quỹ và đội ngũ quản lý quỹ sẽ có trách nhiệm đền bù khoản thất thoát với tối đa là 25% tài khoản của nhà đầu tư.
 
 <hr>
 
-##### List
+# Nguyên tắc quản trị rủi ro
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+* Nguyên tắc vốn - tối thiểu rủi ro: Thông thường với hình thức giao dịch margin trading hay giao dịch ký quỹ, các nhà giao dịch thường hay sử dụng đòn bẩy tài chính để mua & bán với số tiền lớn hơn nhiều lần số tài khoản thực tế của họ, điều này mặc dù có thể tạo ra nhiều lợi nhuận hơn nhưng lại tạo ra rủi ro còn lớn hơn nữa. Do vậy, để tối thiểu rủi ro và đem lại sự an toàn cao nhất cho tài sản của quý nhà đầu tư, MECAP cam kết chỉ sử dụng margin trading để giao dịch 2 chiều (tạo ra lợi nhuận cả khi thị trường tăng trưởng và giảm giá) và sử dụng đòn bẩy để quản lý vốn, với chiến lược riêng, MECAP sẽ chỉ sử dụng 1 phần tài khoản giao dịch với đòn bẩy phù hợp để giao dịch mua & bán với số tiền tương ứng với số tài khoản gốc (tương đương với không dùng đòn bẩy).
 
-##### Unordered List
+VD: Sử dụng 1/50 tài khoản với đòn bẩy x50. Tuy nhiên, do đặc thù của chiến lược giao dịch nên MECAP cần phải đặt nhiều lệnh cùng 1 lúc, do đó yêu cầu tại 1 thời điểm phải có 1 số vốn lớn.
 
-* List item
-* List item
-* List item
-* List item
-* List item
+Tìm hiểu kỹ hơn về **bộ nguyên tắc quản trị rủi ro** tại đây
+
+\
+<hr>
+
+# Các hạng mức tài khoản uỷ thác
+
+* Hạng mức tiêu chuẩn: Từ 5.000 USDT
+
+  \- Lợi nhuận tối đa 18%/tháng
+* Nhà đầu tư cá mập: Từ 20.000 USDT
+
+  \- Lợi nhuận tối đa 21%/tháng
+
+  \- Tài sản đền bù đảm bảo của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
+* Cá voi lớn: Từ 50.000 USDT
+
+  \- Lợi nhuận tối đa 25%/tháng
+
+  \- Tự cầm tài khoản (đội ngũ MECAP sẽ giao dịch trực tiếp trên tài khoản của quý nhà đầu tư)
+
+  \- Tài sản đền bù bảo đảm của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
 
 <hr>
 
-##### Code and Syntax Highlighting
+# Hợp đồng và liên hệ hợp tác
 
-Inline `code` has `back-ticks around` it.
+Xem hợp đồng hợp tác [tại đây](https://drive.google.com/file/d/1iqwMTirm5y1lQy-ejJwxFXtV1VYnCKRH/view?usp=sharing) (vui lòng liên hệ để truy cập).
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does \\*not\\* work \\*\\*very\\*\\* well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- | ------------- | ----- |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      | $12   |
-| zebra stripes | are neat      | $1    |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| *Still*  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Liên hệ hợp tác với chúng tội [tại đây](https://testmecap2.netlify.app/contact/)
