@@ -14,7 +14,7 @@ tags:
   - New
 draft: false
 ---
-# Kiếm tiền cùng MECAP 
+# Kiếm tiền cùng MECAP
 
 *Giới thiệu về hình thức đầu tư uỷ thác - giao dịch*
 
@@ -25,8 +25,6 @@ draft: false
 **Đầu tư uỷ thác - giao dịch** qua MECAP là để cho MECAP trở thành nhà quản lý tài khoản cá nhân của quý nhà đầu tư, MECAP sẽ thay quý nhà đầu tư thực hiện các hoạt động mua và bán các tài sản trong thị trường tài chính và giúp quý nhà đầu tư tạo ra lợi nhuận thụ động. MECAP sẽ cung cấp hợp đồng để chứng nhận đã nhận tiền của quý nhà đầu tư và có trách nhiệm thực hiện các điều khoản trong hợp đồng với quý nhà đầu tư.
 
 Thị trường mà MECAP hiện hoạt động là thị trường tài sản mã hoá kỹ thuật số - crypto currency. Tại đây MECAP sẽ thực hiện các hoạt động mua bán trên nền tảng sàn giao dịch SnapEx Pro, một sàn giao dịch nền tảng có uy tín đã hoạt động lâu năm và có cộng đồng lớn tại nhiều nước trên thế giới. Lý do MECAP sử dụng sàn giao dịch SnapEx là vì giao diện và cơ chế giao dịch của sàn này phù hợp với chiến lược giao dịch độc đáo của MECAP. Để tạo ra lợi nhuận, MECAP sẽ thực hiện các giao dịch mua & bán một cách hợp lý và hưởng phần chênh lệch giữa các giao dịch đó, đem lợi nhuận về cho các nhà đầu tư.
-
-
 
 <hr>
 
@@ -44,15 +42,11 @@ Dưới đây là bảng thống kê tăng trưởng tài khoản giao dịch c�
 
 ![](/images/screen-shot-2020-11-07-at-2.54.49-pm.png)
 
-
-
-Từ tháng 10, vì mục đích tạo cho nhà đầu tư 1 cái nhìn trực quan hơn, chúng tôi quyết định thành lập kênh nhật ký giao dịch cập nhật trực tiếp tài khoản giao dịch hằng 
+Từ tháng 10, vì mục đích tạo cho nhà đầu tư 1 cái nhìn trực quan hơn, chúng tôi quyết định thành lập kênh nhật ký giao dịch cập nhật trực tiếp tài khoản giao dịch hằng ngày.
 
 [Theo dõi trực tiếp nhật ký giao dịch cập nhật hàng ngày của MECAP](https://t.me/mecaptrading)
 
 [Xem bảng thống kê lợi nhuận trong tháng 9/2020](https://docs.google.com/spreadsheets/d/1nhtpdESGOeMZZLdLdstn5L4drW1o5-zJoVAnAyxmE2A/edit?usp=sharing)
-
-
 
 <hr>
 
@@ -116,7 +110,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
   <dd>Is something people use sometimes.</dd>
 
   <dt>Markdown in HTML</dt>
-  <dd>Does \*not\* work \*\*very\*\* well. Use HTML <em>tags</em>.</dd>
+  <dd>Does \\*not\\* work \\*\\*very\\*\\* well. Use HTML <em>tags</em>.</dd>
 </dl>
 
 <hr>
