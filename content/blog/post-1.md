@@ -1,7 +1,7 @@
 ---
 title: Hãy để chúng tôi kiếm tiền hộ bạn
-description: this is meta description
-type: featured
+description: Giới thiệu về hình thức đầu tư uỷ thác - giao dịch với MECAP
+type: Guide
 image: images/featured-post/post-1.jpg
 date: 2019-10-29T10:07:47+06:00
 categories:
