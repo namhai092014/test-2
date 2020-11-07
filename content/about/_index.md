@@ -2,7 +2,7 @@
 title: Giới thiệu về đội ngũ MECAP
 description: Các thành viên nòng cốt của MECAP
 type: about
-image: /images/photo_2020-11-06_14-53-47.jpg
+image: /images/mecap.1.png
 date: 2020-11-07T08:12:00.881Z
 draft: false
 ---
