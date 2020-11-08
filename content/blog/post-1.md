@@ -5,7 +5,7 @@ type: featured
 image: /images/anh-bia-copy.png
 date: 2020-11-07T07:41:15.718Z
 categories:
-  - "Guide_to_start"
+  - Guide_to_start
 tags: []
 draft: false
 ---
@@ -68,7 +68,7 @@ Lưu ý: Theo quá trình tăng trưởng của quỹ, lợi nhuận tối đa h
 
   * Cam kết tổng kết tháng không lỗ quá 12% tài khoản đầu tư (nếu có). 
   * Nếu trong bất kỳ thời điểm nào của quá trình uỷ thác, tài khoản của nhà đầu tư giảm xuống dưới 75% thì nhà đầu tư có thể đơn phương chấm dứt hợp đồng uỷ thác (tương đương mức lỗ là 25%).
-  * Nếu tài khoản của nhà đầu tư giảm xuống dưới 50% thì quỹ và đội ngũ quản lý quỹ sẽ có trách nhiệm đền bù khoản thất thoát với tối đa là 25% tài khoản của nhà đầu tư.
+  * **Trường hợp kết thúc hợp đồng mà tài khoản uỷ thác thua lỗ, MECAP sẽ có trách nhiệm đền bù 25% số tài sản thua lỗ.**.
 
 <hr>
 
