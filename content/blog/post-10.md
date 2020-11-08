@@ -22,7 +22,7 @@ draft: false
 
 <hr>
 
-# Nguyên tắc chia vốn 
+# Nguyên tắc chia vốn
 
 Với phương châm tập trung vào giảm thiểu rủi ro tới mức tối đa. MECAP sẽ không bao giờ sử dụng toàn bộ số vốn để giao dịch.
 
@@ -61,7 +61,7 @@ Quốc tế review sàn SnapEx Pro](https://www.coinbureau.com/review/snapex/)\
 
 Vì sàn SnapEx Pro là một nền tảng giao dịch phục vụ riêng cho giao dịch margin nên sàn SnapEx sẽ đem tới một cơ chế đặt lệnh đặc biệt có thể ủng hộ bất kỳ lược giao dịch nào. Cụ thể, sàn SnapEx cho người dùng đặt lệnh mua và bán ở bất kỳ giá nào, mua cao hơn giá hiện tại - bán thấp hơn giá hiện tại, và lệnh sẽ được khớp khi giá chạy đến đúng điểm đó, còn không thì sẽ không có điều gì xảy ra cả. Đây là một cơ chế đặt lệnh tốt có thể ủng hộ cho lược giao dịch thuận dòng chảy của MECAP.
 
-# \=> Thêm hình ảnh minh hoạ 
+![](/images/img_5542.png)
 
 ###### Cơ chế giá tối ưu giảm thiểu lệch giá (spread)
 
