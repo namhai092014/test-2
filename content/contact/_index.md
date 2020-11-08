@@ -1,13 +1,8 @@
 ---
-title: "Get In Touch"
-date: 2019-10-29T13:49:23+06:00
+title: Liên hệ hợp tác với MECAP
+description: "Các thông tin liên lạc gồm email - telegram - Facebook "
+type: contact
+date: 2020-11-08T02:51:02.357Z
 draft: false
-
-# meta description
-description: "this is meta description"
-
-# type
-type : "contact"
 ---
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+MECAP luôn luôn sẵn sàng đón nhận mọi ý kiến và mọi cơ hội hợp tác theo tiêu chí đôi bên cùng có lợi. Quý nhà đầu tư/đối tác muốn hợp tác vui lòng liên hệ.
