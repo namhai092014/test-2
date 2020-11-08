@@ -2,11 +2,11 @@
 title: Bộ nguyên tắc quản trị rủi ro
 description: Bao gồm phương châm giao dịch - chiến lược chia vốn và các nguyên
   tắc quản trị rủi ro
-type: Guide_to_start
+type: post
 image: images/post/post-1.jpg
 date: 2020-11-07T11:24:19.960Z
 categories:
-  - "\bGuide_to_start"
+  - "Guide_to_start"
 tags:
   - Financial
   - Blog
