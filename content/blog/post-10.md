@@ -6,7 +6,7 @@ type: Guide_to_start
 image: images/post/post-1.jpg
 date: 2020-11-07T11:24:19.960Z
 categories:
-  - "\bGuide"
+  - "\bGuide_to_start"
 tags:
   - Financial
   - Blog
