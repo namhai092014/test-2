@@ -1,17 +1,12 @@
 ---
 title: Hãy để chúng tôi kiếm tiền hộ bạn
 description: Giới thiệu về hình thức đầu tư uỷ thác - giao dịch với MECAP
-type: Guide
+type: Guide_to_start
 image: /images/anh-bia-copy.png
 date: 2020-11-07T07:41:15.718Z
 categories:
   - "\bGuide_to_start"
-tags:
-  - Photos
-  - Game
-  - React
-  - Python
-  - New
+tags: []
 draft: false
 ---
 # Kiếm tiền cùng MECAP
