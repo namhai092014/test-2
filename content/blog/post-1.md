@@ -52,17 +52,15 @@ Từ tháng 10, vì mục đích tạo cho nhà đầu tư 1 cái nhìn trực q
 
 ##### Paragraph
 
-
-
 # Chính sách với quý nhà đầu tư
 
 ###### Sơ lược:
 
-* Lợi nhuận dành cho quý nhà đầu tư:\
-  \
-  - Từ 5 ~ 25%/tháng. \
-  - Nếu lợi nhuận tháng thấp hơn mức tối thiểu là 5% thì MECAP sẽ không tính cổ tức. Nếu lợi nhuận tháng cao hơn mức tối đa là 25%, MECAP xứng đáng hưởng phần dư vì đã giúp nhà đầu tư đạt mức lợi nhuận cao nhất của trong tháng.\
-  - Các số liệu tài khoản sẽ được tổng kết hàng tháng và lợi nhuận sẽ trả về cho nhà đầu tư mỗi quý (3 tháng 1 lần).
+* Lợi nhuận dành cho quý nhà đầu tư:
+
+  * Từ 5 ~ 25%/tháng. 
+  * Nếu lợi nhuận tháng thấp hơn mức tối thiểu là 5% thì MECAP sẽ không tính cổ tức. Nếu lợi nhuận tháng cao hơn mức tối đa là 25%, MECAP xứng đáng hưởng phần dư vì đã giúp nhà đầu tư đạt mức lợi nhuận cao nhất của trong tháng.
+  * Các số liệu tài khoản sẽ được tổng kết hàng tháng và lợi nhuận sẽ trả về cho nhà đầu tư mỗi quý (3 tháng 1 lần).
 
 Lưu ý: Theo quá trình tăng trưởng của quỹ, lợi nhuận tối đa hàng tháng trả về sẽ có thể thay đổi. Lí do là vì MECAP cần đảm bảo an toàn về tài sản cho nhà đầu tư, do vậy % khối lượng giao dịch/tổng tài khoản cần phải nhỏ hơn.
 
@@ -71,10 +69,11 @@ Lưu ý: Theo quá trình tăng trưởng của quỹ, lợi nhuận tối đa h
   \- Quý nhà đầu tư đồng ý chia sẻ 32% lợi nhuận từ khoản đầu tư của mình.
 * Cam kết rủi ro dành cho nhà đầu tư:
 
-  \- Cam kết tổng kết quý (3 tháng) có lợi nhuận tối thiểu 1%.\
-  - Cam kết tổng kết tháng không lỗ quá 12% tài khoản đầu tư (nếu có). \
-  - Nếu trong bất kỳ thời điểm nào của quá trình uỷ thác, tài khoản của nhà đầu tư giảm xuống dưới 75% thì nhà đầu tư có thể đơn phương chấm dứt hợp đồng uỷ thác (tương đương mức lỗ là 25%).\
-  - Nếu tài khoản của nhà đầu tư giảm xuống dưới 50% thì quỹ và đội ngũ quản lý quỹ sẽ có trách nhiệm đền bù khoản thất thoát với tối đa là 25% tài khoản của nhà đầu tư.
+  \- Cam kết tổng kết quý (3 tháng) có lợi nhuận tối thiểu 1%.
+
+  * Cam kết tổng kết tháng không lỗ quá 12% tài khoản đầu tư (nếu có). 
+  * Nếu trong bất kỳ thời điểm nào của quá trình uỷ thác, tài khoản của nhà đầu tư giảm xuống dưới 75% thì nhà đầu tư có thể đơn phương chấm dứt hợp đồng uỷ thác (tương đương mức lỗ là 25%).
+  * Nếu tài khoản của nhà đầu tư giảm xuống dưới 50% thì quỹ và đội ngũ quản lý quỹ sẽ có trách nhiệm đền bù khoản thất thoát với tối đa là 25% tài khoản của nhà đầu tư.
 
 <hr>
 
@@ -84,9 +83,8 @@ Lưu ý: Theo quá trình tăng trưởng của quỹ, lợi nhuận tối đa h
 
 VD: Sử dụng 1/50 tài khoản với đòn bẩy x50. Tuy nhiên, do đặc thù của chiến lược giao dịch nên MECAP cần phải đặt nhiều lệnh cùng 1 lúc, do đó yêu cầu tại 1 thời điểm phải có 1 số vốn lớn.
 
-Tìm hiểu kỹ hơn về **bộ nguyên tắc quản trị rủi ro** tại đây
+Tìm hiểu kỹ hơn về **[bộ nguyên tắc quản trị rủi ro](https://testmecap2.netlify.app/blog/post-10/)** tại đây.
 
-\
 <hr>
 
 # Các hạng mức tài khoản uỷ thác
