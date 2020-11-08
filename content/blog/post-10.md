@@ -1,167 +1,67 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/post/post-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "Go Language"
+title: Bộ nguyên tắc quản trị rủi ro
+description: Bao gồm phương châm giao dịch - chiến lược chia vốn và các nguyên
+  tắc quản trị rủi ro
+type: Guide
+image: images/post/post-1.jpg
+date: 2020-11-07T11:24:19.960Z
+categories:
+  - "\bGuide"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
-
-# post type
-type: "post"
+  - Financial
+  - Blog
+  - Advise
+  - Trading
+  - Crypto
+draft: false
 ---
+# Tiêu chí về chiến lược giao dịch
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+1. Đặt lợi ích của nhà đầu tư lên hàng đầu.
+2. Tập trung quản trị rủi ro, đảm bảo an toàn tối đa cho tài sản của quý nhà đầu tư.
 
 <hr>
 
-##### Emphasis
+# Nguyên tắc chia vốn 
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Với phương châm tập trung vào giảm thiểu rủi ro tới mức tối đa. MECAP sẽ không bao giờ sử dụng toàn bộ số vốn để giao dịch.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Số vốn sử dụng cho mỗi giao dịch là 1/100 ~ 1/80 tài khoản, tương đương với 1% đến 1.25% tài khoản cho mỗi lệnh. Do vậy mỗi giao dịch chỉ thua lỗ tối đa là 1.25% tài khoản.
 
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+Tại 1 thời điểm, mỗi mã giao dịch chỉ có 1 lệnh duy nhất được mở.
 
 <hr>
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+# Con đường giao dịch - chiến lược lên kế hoạch giao dịch thuận dòng chảy
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+**"Trend is friend"** là 1 câu nói rất phổ biến trong đầu tư - tài chính mà ai cũng nghe và ai cũng nói, nhưng chúng ta có thực sự hiểu và làm theo câu nói này? Tại sau chúng ta lại phải cố gắng bắt đáy hay bắt đỉnh và bắt đảo chiều?
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Nếu nhìn lại trong quá khứ, chúng ta có thể thấy phần lớn các trường hợp giá tăng mạnh sau khi vượt qua đỉnh gần nhất (hoặc đỉnh cũ), tương tự với trường hợp giá giảm và càng gần đánh/đỉnh thì giá chạy càng nhanh. Vì vậy, MECAP áp dụng sự thống kê này vào việc giao dịch và quyết định sẽ giao dịch theo xu hướng thuận dòng chảy, tức là mua khi giá tăng và bán khi giá giảm.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+Giá khi tăng qua đỉnh cũ (hoặc đỉnh gần nhất) và giảm qua đáy cũ (hoặc đáy gần nhất) thường có xu hướng tiếp tục tăng hoặc tiếp tục giảm hơn so với đảo chiều. Giả sử nếu ta mua khi giá tăng thì chúng ta đã có 1 đoạn giá chạy ủng hộ xu hướng và có cả hỗ trợ ở dưới, điều này càng củng cố xu hướng giá giúp giao dịch an toàn hơn.
 
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+Đặc điểm cách giao dịch của MECAP:\
+Thị trường chỉ có 2 chiều hướng là lên và xuống, đa số các nhà giao dịch sử dụng các chỉ báo phân tích kỹ thuật để lựa chọn 1 trong 2 chiều đó. MECAP thấy việc dự đoán xu hướng giá là không cần thiết khi chúng ta có thể lên kế hoạch cho sự di chuyển của giá dù giá có chạy theo chiều nào. Do vậy, hệ thống giao dịch của MECAP 90% dựa vào chiến lược giao dịch riêng do MECAP phát triển (lên kế hoạch khi giá chạy) và chỉ khoảng 10% dựa vào phân tích kỹ thuật. **Cũng như cách chơi của những nhà tài phiệt lớn trong lĩnh vực tài chính thế giới, họ vạch ra những kế hoạch, những “vùng“ thuận lợi cho việc giao dịch của họ và kiên nhẫn chờ đợi điều đó xảy ra.**
 
 <hr>
 
-##### Paragraph
+# Nền tảng giao dịch sử dụng: sàn giao dịch SnapEx Pro
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+Tại sao lại là sàn SnapEx chứ không phải sàn nào khác? Thông thường, các sàn giao dịch spot (giao ngay) như Binance, Coinbase Pro, Huobi đều có cơ chế đặt lệnh giống nhau theo kiểu bạn chỉ có thể mua với giá thấp hơn hoặc bằng giá hiện tại, bán với giá cao hơn hoặc bằng giá hiện tại. Điều này làm hình thành nên một tư duy giao dịch chung cho số đông rằng mọi người nên cố gắng mua ở giá thấp nhất (bắt đáy) và bán ở giá cao nhất (bắt đỉnh). \
+Và rõ ràng cơ chế đặt lệnh này không ủng hộ chiến lược giao dịch thuận dòng chảy của MECAP, do đó chúng tôi buộc phải sử dụng sàn giao dịch SnapEx, một nền tảng giao dịch với những cơ chế đặt lệnh tối ưu hơn cho giao dịch phái sinh (margin).
 
-<hr>
+[Đăng ký giao dịch sàn SnapEx Pro](https://www.snapex.com/user/register?invite_code=eupcov)[\
+Quốc tế review sàn SnapEx Pro](https://www.coinbureau.com/review/snapex/)\
+[Việt Nam review sàn SnapEx Pro](https://www.cryptohub.vn/review-san-snapex-new-bitmex-killer/)
 
-##### List
+##### Cơ chế đặt lệnh đăc biệt:
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+Vì sàn SnapEx Pro là một nền tảng giao dịch phục vụ riêng cho giao dịch margin nên sàn SnapEx sẽ đem tới một cơ chế đặt lệnh đặc biệt có thể ủng hộ bất kỳ lược giao dịch nào. Cụ thể, sàn SnapEx cho người dùng đặt lệnh mua và bán ở bất kỳ giá nào, mua cao hơn giá hiện tại - bán thấp hơn giá hiện tại, và lệnh sẽ được khớp khi giá chạy đến đúng điểm đó, còn không thì sẽ không có điều gì xảy ra cả. Đây là một cơ chế đặt lệnh tốt có thể ủng hộ cho lược giao dịch thuận dòng chảy của MECAP.
 
-##### Unordered List
+###### Cơ chế giá tối ưu giảm thiểu lệch giá (spread)
 
-* List item
-* List item
-* List item
-* List item
-* List item
+Thông thường vấn đề chênh lệch giữa giá mua và bán (spread giá) là do khối lượng giao dịch ít dẫn đến khoảng cách lớn giữa giá mua và bán (ask và bid), các sàn giao dịch dù có lớn đến mấy vẫn sẽ có những lúc giá chạy quá nhanh dẫn tới thiếu khối lượng giao dịch, dẫn tới lệch giá mạnh. Vì là một nền tảng giao dịch margin, SnapEx bắt buộc phải khắc phục được vấn đề này vì đa số người chơi đều sử dụng đòn bẩy để giao dịch, và SnapEx đã làm rất tốt.
+
+Giá trên SnapEx là giá trung bình của 3 sàn giao dịch lớn là Binance, Huobi và OKex. Do vậy, khối lượng giao dịch của SnapEx chính là tổng khối lượng giao dịch của 3 sàn kể trên, dẫn tới việc trượt giá là rất ít.
 
 <hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
