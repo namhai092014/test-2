@@ -26,9 +26,12 @@ draft: false
 
 Với phương châm tập trung vào giảm thiểu rủi ro tới mức tối đa. MECAP sẽ không bao giờ sử dụng toàn bộ số vốn để giao dịch.
 
-Số vốn sử dụng cho mỗi giao dịch là 1/100 ~ 1/80 tài khoản, tương đương với 1% đến 1.25% tài khoản cho mỗi lệnh. Do vậy mỗi giao dịch chỉ thua lỗ tối đa là 1.25% tài khoản.
+Số vốn sử dụng cho mỗi giao dịch là 1/100 ~ 1/80 tài khoản, tương đương với 1% đến 1.25% tài khoản cho mỗi lệnh. Do vậy mỗi giao dịch chỉ thua lỗ tối đa là 1.25% tài khoản.\
+VD: Tài khoản giao dịch là 10.000 USDT => 1 lệnh chỉ giao dịch từ 100 ~ 125 USDT.
 
-Tại 1 thời điểm, mỗi mã giao dịch chỉ có 1 lệnh duy nhất được mở.
+Vậy tại sao lại cần số vốn lớn? Vì bản chất cách giao dịch của MECAP là lên kế hoạch và đặt lệnh sẵn cho các trường hợp biến động của giá, do vậy cần phải đặt sẵn rất nhiều lệnh, điều này yêu cầu một số vốn lớn có sẵn trong tài khoản.
+
+Tuy nhiên, tại 1 thời điểm, mỗi mã giao dịch chỉ có 1 lệnh duy nhất được mở.
 
 <hr>
 
@@ -57,6 +60,8 @@ Quốc tế review sàn SnapEx Pro](https://www.coinbureau.com/review/snapex/)\
 ##### Cơ chế đặt lệnh đăc biệt:
 
 Vì sàn SnapEx Pro là một nền tảng giao dịch phục vụ riêng cho giao dịch margin nên sàn SnapEx sẽ đem tới một cơ chế đặt lệnh đặc biệt có thể ủng hộ bất kỳ lược giao dịch nào. Cụ thể, sàn SnapEx cho người dùng đặt lệnh mua và bán ở bất kỳ giá nào, mua cao hơn giá hiện tại - bán thấp hơn giá hiện tại, và lệnh sẽ được khớp khi giá chạy đến đúng điểm đó, còn không thì sẽ không có điều gì xảy ra cả. Đây là một cơ chế đặt lệnh tốt có thể ủng hộ cho lược giao dịch thuận dòng chảy của MECAP.
+
+# \=> Thêm hình ảnh minh hoạ 
 
 ###### Cơ chế giá tối ưu giảm thiểu lệch giá (spread)
 
