@@ -70,3 +70,7 @@ Thông thường vấn đề chênh lệch giữa giá mua và bán (spread giá
 Giá trên SnapEx là giá trung bình của 3 sàn giao dịch lớn là Binance, Huobi và OKex. Do vậy, khối lượng giao dịch của SnapEx chính là tổng khối lượng giao dịch của 3 sàn kể trên, dẫn tới việc trượt giá là rất ít.
 
 <hr>
+
+# Theo dõi quá trình giao dịch 
+
+Theo dõi trực tiếp quá trình giao dịch - cập nhật mỗi khi tài khoản giao dịch có biến động [tại đây](https://t.me/mecaptrading).
