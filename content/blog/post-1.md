@@ -104,6 +104,6 @@ Tìm hiểu kỹ hơn về **[bộ nguyên tắc quản trị rủi ro](https://
 
 # Hợp đồng và liên hệ hợp tác
 
-Xem hợp đồng hợp tác [tại đây](https://drive.google.com/file/d/1iqwMTirm5y1lQy-ejJwxFXtV1VYnCKRH/view?usp=sharing) (vui lòng liên hệ để truy cập).
+[Xem quy trình hợp tác giữa quý nhà đầu tư và MECAP.](https://mecap.netlify.app/blog/quy-tr%C3%ACnh-h%E1%BB%A3p-t%C3%A1c-gi%E1%BB%AFa-qu%C3%BD-nh%C3%A0-%C4%91%E1%BA%A7u-t%C6%B0-v%C3%A0-mecap/)
 
 Liên hệ hợp tác với chúng tội [tại đây](https://testmecap2.netlify.app/contact/)
