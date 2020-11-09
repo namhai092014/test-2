@@ -69,13 +69,45 @@ Sau khi quỹ đạt tối thiểu $100.000 hoặc có trên 20 nhà đầu tư 
 
   \- Điều khoản "High Watermark": chỉ những khoản lợi nhuận vượt mức tài sản uỷ thác ban đầu mới được ghi nhận. VD tài khoản 10.000 USDT tăng lên 11.000 USDT sẽ được ghi nhận mức lợi nhuận là 10%, tài khoản 10.000 USDT giảm xuống 9.000 USDT rồi tăng lên lại 10.000 USDT thì không được ghi nhận lợi nhuận,
 
-5. Các bước hợp tác giữa quý nhà đầu tư và MECAP
+#### 5. Các bước hợp tác giữa quý nhà đầu tư và MECAP
 
-Bước 1: Tìm hiểu kỹ các thông tin cần biết về MECAP
+**Bước 1**: Tìm hiểu kỹ các thông tin cần biết về MECAP
 [Đọc thông tin về đội ngũ của MECAP](https://mecap.netlify.app/about/)
 
 [Đọc bản cáo bạch của MECAP](https://mecap.netlify.app/blog/post-1/) để nắm được những thông tin cần thiết
 
 Đọc **[bộ nguyên tắc quản trị rủi  ro](https://mecap.netlify.app/blog/post-10/)**
 
-Bước 2: Liên hệ với
+**Bước 2**: Liên hệ với MECAP
+
+[MECAP contact](https://mecap.netlify.app/contact/)
+
+**Bước 3**: Ký kết hợp đồng
+
+Khi bạn [liên hệ](https://mecap.netlify.app/contact/), MECAP sẽ gửi hợp đồng cho bạn.
+
+**Bước 4**: Thực hiện việc uỷ thác tài sản
+
+Quý nhà đầu tư có thể chuyển khoản tài sản VNĐ hoặc tài sản USDT qua thông tin trong hợp đồng.
+
+Nếu quý nhà đầu tư là hạng mức **cá voi lớn**, quý nhà đầu tư thực hiện việc lập tài khoản giao dịch trên SnapEx Pro [tại đây](https://www.snapex.com/user/register?invite_code=eupcov) và thực hiện việc nạp tiền vào tài khoản.
+
+[Hướng dẫn lập tài khoản và xác minh tài khoản SnapEx](https://www.youtube.com/watch?v=pSETBJOthO8)
+
+[Hướng dẫn nạp tiền vào tài khoản SnapEx](https://www.youtube.com/watch?v=q7RO_TtQq48)
+
+[Hướng dẫn rút tiền từ tài khoản SnapEx](https://www.youtube.com/watch?v=qyrZtKC9mZ8)
+
+**Bước 5**: Theo dõi tăng trưởng tài khoản trực tiếp
+
+Theo dõi trading diary [tại đây](https://t.me/mecaptrading). 
+
+**Bước 6**: Chia sẻ lợi nhuận - đền bù tổn thất (nếu có). 
+
+MECAP cùng quý nhà đầu tư thực hiện các điều khoản chia sẻ lợi nhuận - đền bù tổn thất (nếu có) được quy định trong hợp đồng.
+
+**Bước 7**: Tái kí kết hợp đồng/thanh lý hợp đồng.
+
+
+
+Kết: MECAP 1 lần nữa chân thành cám ơn sự quan tâm và hợp tác của quý nhà đầu tư.
