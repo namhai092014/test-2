@@ -6,3 +6,6 @@ date: 2020-11-08T02:51:02.357Z
 draft: false
 ---
 MECAP luôn luôn sẵn sàng đón nhận mọi ý kiến và mọi cơ hội hợp tác theo tiêu chí đôi bên cùng có lợi. Quý nhà đầu tư/đối tác muốn hợp tác vui lòng liên hệ.
+
+Trading diary: https://t.me/mecaptrading\
+MECAP support: @mecapsupport
