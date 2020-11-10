@@ -3,7 +3,7 @@ title: Crypto từ A đến C dành cho người mới
 description: Những kiến thức cơ bản và dễ hiểu nhất dành cho người mới bắt đầu
   tìm hiểu thị trường.
 type: post
-image: /images/mecap.svg
+image: /images/h.png
 date: 2020-11-10T04:27:45.739Z
 categories:
   - Guide_to_start
