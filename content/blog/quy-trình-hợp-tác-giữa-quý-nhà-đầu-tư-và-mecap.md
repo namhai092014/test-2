@@ -2,7 +2,7 @@
 title: Quy trình hợp tác giữa quý nhà đầu tư và MECAP
 description: Quy trình hợp tác giữa quý nhà đầu tư và MECAP
 type: post
-image: /images/mecap.svg
+image: /images/j.png
 date: 2020-11-08T05:43:04.934Z
 categories:
   - Guide_to_start
