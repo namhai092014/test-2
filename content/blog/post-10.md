@@ -7,12 +7,7 @@ image: /images/rr.png
 date: 2020-11-07T11:24:19.960Z
 categories:
   - Guide_to_start
-tags:
-  - Financial
-  - Blog
-  - Advise
-  - Trading
-  - Crypto
+tags: []
 draft: false
 ---
 # Tiêu chí về chiến lược giao dịch
