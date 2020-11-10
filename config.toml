@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://mecap.netlify.app"
+baseURL = "https://mecap.vn"
 languageCode = "en-us"
 title = "Marathon Earner Capital Blog"
 theme = "liva-hugo"
