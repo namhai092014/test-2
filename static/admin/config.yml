@@ -66,9 +66,9 @@ collections:
         public_folder: '/images/gallery'
         fields:
           - { label: 'Enable', name: 'enable', widget: 'boolean' }
-          - label: 'Gallery',
-            name: 'gallery',
-            widget: 'list',
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'list'
             fields: 
               - {label: 'Image', name: 'image', widget: 'image'} 
           
