@@ -65,4 +65,4 @@ collections:
         media_folder: "../static/images/gallery"
         fields:
           - { label: 'Enable', name: 'enable', widget: 'boolean' }
-          - { label: 'Gallery', name: 'gallery', widget: 'list', field: {label: Image, name: image, widget: image} }
+          - { label: 'Gallery', name: 'gallery', widget: 'list', field: {label: 'Image', name: 'image', widget: 'image'} }
