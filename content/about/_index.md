@@ -24,7 +24,7 @@ Vị trí: trực tiếp điều hành và quản lý MECAP.
 * Có nhiều kinh nghiệm trong giao dịch thực chiến khi đã trải qua 1 kì uptrend và 1 kì downtrend (gần 1 vòng của thị trường) với thành tích 3 lần gỡ lại tài khoản sau vô số lần cháy. - Hiện đang giao dịch hết sức ổn định với chiến lược mới từ đầu năm 2020 với 0 lần cháy tài khoản và 7 tháng liên tiếp có lợi nhuận (tổng kết tháng).
 * 9 năm trong lĩnh vực kinh doanh truyền thống.
 
-![](/images/hn.png)
+![](/images/untitled-1.png)
 
 Mai H. N.
 
