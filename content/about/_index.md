@@ -8,7 +8,7 @@ draft: false
 ---
 ![](/images/photo_2020-11-07_15-54-44.jpg)
 
-Phạm T. H.
+**Phạm T. H.**
 
 Xin chào, tôi là H., là người trực tiếp điều hành và quản lý MECAP. Tham gia thị trường crypto từ năm 2017, như hầu hết mọi người, tôi từng nghĩ rằng chỉ có 2 con đường để "sống sót" trong thị trường tài chính (chứ chưa nói đến chiến thắng) là 1. Đi theo 1 ai đó và 2. Điên cuồng lao vào học phân tích kỹ thuật để dự đoán đường đi của giá.
 
@@ -26,7 +26,7 @@ Vị trí: trực tiếp điều hành và quản lý MECAP.
 
 ![](/images/untitled-1.png)
 
-Mai H. N.
+**Mai H. N.**
 
 Xin chào, tôi là N., người sẽ cùng H trực tiếp hỗ trợ và đồng quản lý MECAP. Cũng như H tôi tham gia thị trường từ tháng 9 năm 2017. Ở thị trường thời bấy giờ kiến thức về kĩ thuật ở Crypto là một thứ gì đó rất mới mẻ nên tôi cùng 1 vài ae đã lập team tự nghiên cứu kiến thức và làm quản lý 1 cộng đồng nho nhỏ phục vụ mục đích chia sẻ những kiến thức cho mọi người.   Trải qua rất nhiều con sóng lên và xuống, tài sản có lúc mất mát và cũng có lúc tăng nhanh thì tôi nhận ra một điều "Đầu tư là phải lên chiến lược cho những thứ mình sắp phải đối mặt" và chính việc đó mới là phương pháp có thể kiếm lợi nhuận  lâu ở thị trường đầy rẫy những biến số này. Dưới đây là những công việc mà tôi đã và đang làm tới thời điểm năm 2020:
 
