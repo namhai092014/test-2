@@ -62,8 +62,7 @@ collections:
       - name: 'gallery'
         label: 'Gallery'
         file: 'data/gallery.yml'
-        media_folder: "static/images/gallery"
-        public_folder: "/images/gallery"
+        media_folder: "gallery"
         fields:
           - { label: 'Enable', name: 'enable', widget: 'boolean' }
           - { label: 'Gallery', name: 'gallery', widget: 'list', field: {label: Image, name: image, widget: image} }
