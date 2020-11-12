@@ -58,7 +58,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'gallery'
     label: 'Gallery'
-    file: 'data/gallery.yml'
+    files: 'data/gallery.yml'
     media_folder: "static/images/gallery"
     public_folder: "/images/gallery"
     create: false
