@@ -41,15 +41,11 @@ Nhận thấy sự thiếu hiệu quả trong cách giao dịch của rất nhi�
 
 [Xem báo cáo hoạt động thử nghiệm của MEbot từ 8/2017 đến 7/2021](https://drive.google.com/file/d/1l3orJumzYqCpR7koJs_G8aeePReBrYua/view?usp=sharing).
 
-###### *Trong việc thử nghiệm, MEbot dựa trên cơ sở dữ liệu nến 1 min (1 phút 1 nến) trên sàn Binance và so sánh với khối lượng giao dịch thực của từng cây nến đó để ra kết quả. Kết quả đã bao gồm cả sự spread giá (sự chênh lệch giá mua bán do khối lượng giao dịch tại thời điểm đó) và phí giao dịch.
+###### \*Trong việc thử nghiệm, MEbot dựa trên cơ sở dữ liệu nến 1 min (1 phút 1 nến) trên sàn Binance và so sánh với khối lượng giao dịch thực của từng cây nến đó để ra kết quả. Kết quả đã bao gồm cả sự spread giá (sự chênh lệch giá mua bán do khối lượng giao dịch tại thời điểm đó) và phí giao dịch.
 
 Mặc dù những thành viên trong đội ngũ MECAP đã có thể đứng trên đôi chân của mình trong con đường giao dịch, MECAP rất mong được đồng hành cùng quý nhà đầu tư để có thể đi nhanh hơn và xa hơn trên con đường này.
 
-
-
 <hr>
-
-
 
 # Chính sách với quý nhà đầu tư
 
@@ -75,7 +71,7 @@ Mặc dù những thành viên trong đội ngũ MECAP đã có thể đứng tr
 
 * **Nguyên tắc vốn - tối thiểu rủi ro**: Thông thường với hình thức giao dịch margin trading hay giao dịch ký quỹ, các nhà giao dịch thường hay sử dụng đòn bẩy tài chính để mua & bán với số tiền lớn hơn nhiều lần số tài khoản thực tế của họ, điều này mặc dù có thể tạo ra nhiều lợi nhuận hơn nhưng lại tạo ra rủi ro còn lớn hơn nữa. Do vậy, để tối thiểu rủi ro và đem lại sự an toàn cao nhất cho tài sản của quý nhà đầu tư, chúng tôi lập trình MEbot chỉ sử dụng 1/300 ~ 1/200 tài khoản cho 1 giao dịch và hệ logic core tập trung  giao dịch tạo ra lợi nhuận ổn định trong thời gian dài, cả khi thị trường tăng và giảm. Tuy nhiên, do đặc thù của chiến lược giao dịch riêng của MECAP, MEbot sẽ có những thời điểm cần phải đặt nhiều lệnh cùng 1 lúc, do đó yêu cầu tại 1 thời điểm phải có 1 số vốn lớn.
 
-Tìm hiểu kỹ hơn về **[bộ nguyên tắc quản trị rủi ro](https://testmecap2.netlify.app/blog/post-10/)** tại đây.
+Tìm hiểu kỹ hơn về **[bộ nguyên tắc quản trị rủi ro](https://mecap.vn/blog/post-10/)** tại đây.
 
 <hr>
 
@@ -112,4 +108,4 @@ Tìm hiểu kỹ hơn về **[bộ nguyên tắc quản trị rủi ro](https://
 
 [Xem quy trình hợp tác giữa quý nhà đầu tư và MECAP.](https://mecap.netlify.app/blog/quy-tr%C3%ACnh-h%E1%BB%A3p-t%C3%A1c-gi%E1%BB%AFa-qu%C3%BD-nh%C3%A0-%C4%91%E1%BA%A7u-t%C6%B0-v%C3%A0-mecap/)
 
-Liên hệ hợp tác với chúng tội [tại đây](https://testmecap2.netlify.app/contact/)
+Liên hệ hợp tác với chúng tội [tại đây](https://mecap.vn/contact/)
