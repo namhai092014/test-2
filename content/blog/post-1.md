@@ -1,9 +1,9 @@
 ---
-title: Hãy để chúng tôi kiếm tiền hộ bạn
-description: Giới thiệu về hình thức đầu tư uỷ thác - giao dịch với MECAP
+title: Hãy để chúng tôi giúp bạn kiếm tiền.
+description: Giới thiệu về MEbot - trợ lý giao dịch tự động giúp bạn tạo ra lợi nhuận.
 type: featured
 image: /images/anh-bia-copy.png
-date: 2020-11-07T07:41:15.718Z
+date: 2021-07-19T09:33:53.687Z
 categories:
   - Guide_to_start
 tags: []
@@ -11,11 +11,19 @@ draft: false
 ---
 # Kiếm tiền cùng MECAP
 
-*Giới thiệu về hình thức đầu tư uỷ thác - giao dịch*
+*Giới thiệu về MEbot - trợ lý giao dịch tự động giúp bạn tạo ra lợi nhuận.*
 
 <hr>
 
-**Đầu tư uỷ thác - giao dịch** là hình thức đầu tư trong đó nhà đầu tư, dựa trên những cơ sở thực tế, uỷ thác (gửi - giao phó) tài sản cho một cá nhân/tổ chức để thay nhà đầu tư thực hiện việc giao dịch mua và bán trong thị trường tài chính để tạo ra lợi nhuận.
+**Giao dịch (trading)** là hình thức nhà đầu tư tạo ra lợi nhuận bằng cách mua và bán chênh lệch giá các loại tài sản trên một nền tảng trung gian (sàn giao dịch). Sự ra đời của thị trường tài sản mã hoá crypto currency đã mở ra một cánh cửa mới hoàn toàn trong lĩnh vực giao dịch khi cho phép các nhà đầu tư có thể giao dịch tại bất cứ đâu, bất kể thời gian nào (24/7). Sự phát triển này một mặt đã tạo ra thêm nhiều cơ hội giao dịch hơn cho nhà đầu tư nhưng đồng thời cũng để lộ một điểm yếu quan trọng của con người đó là phải nghỉ ngơi chứ không thể theo sát thị trường toàn thời gian. Chúng ta có thêm cơ hội khi thức và đánh mất cơ hội khi ngủ. Điều này đã khiến nhu cầu giao dịch 24/7 của nhà đầu tư ngày càng cao, do đó mở cửa tạo cơ hội cho những ngành tự động hoá tham gia vào thị trường. 1 ví dụ điển hình là **trợ lý giao dịch tự động** hay **giao dịch bằng bot.**
+
+**Trợ lý giao dịch tự động** hay **giao dịch bằng bot** là hình thức giao trong đó nhà đầu tư sử dụng một dạng robot đã được lập trình sẵn dựa trên một logic giao dịch, từ đó thay mặt cho nhà đầu tư thực hiện các giao dịch mua/bán một cách tự động, 24/7 để tạo ra lợi nhuận. Để làm được điều này, logic giao dịch của bot phải được kiểm nghiệm kỹ lưỡng về hiệu quả lợi nhuận cũng như nguyên tắc quản trị rủi ro. Tại thị trường Việt Nam nói riêng thì việc sử dụng trợ lý giao dịch tự động còn khá xa lạ với đa số nhà đầu tư, tuy nhiên tại các nước có ngành kinh tế - tài chính phát triển, những ngành học - nghiên cứu như quantitative trading (giao dịch định lượng) hay algorithmic trading (giao dịch thuật toán) đã và đang dần trở nên phổ bin.
+
+
+
+![](https://khaiminhbook.vn/wp-content/uploads/2020/03/Untitledasa.png)
+
+**Giao dịch tự động bằng MEbot** là sử dụng trợ lý giao dịch MEbot do đội ngũ MECAP nghiên cứu và phát triển từ tháng 5/2020. Sau hơn 1 năm liên tục thử nghiệm và thử nghiệm, MEbot đã hoàn thiện được hệ logic core và đưa ra những kết quả tích cực về hiệu quả lợi nhuận cũng như nguyên tắc rủi ro.
 
 **Đầu tư uỷ thác - giao dịch** qua MECAP là để cho MECAP trở thành nhà quản lý tài khoản cá nhân của quý nhà đầu tư, MECAP sẽ thay quý nhà đầu tư thực hiện các hoạt động mua và bán các tài sản trong thị trường tài chính và giúp quý nhà đầu tư tạo ra lợi nhuận thụ động. MECAP sẽ cung cấp hợp đồng để chứng nhận đã nhận tiền của quý nhà đầu tư và có trách nhiệm thực hiện các điều khoản trong hợp đồng với quý nhà đầu tư.
 
