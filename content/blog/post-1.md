@@ -1,5 +1,5 @@
 ---
-title: Hãy để chúng tôi giúp bạn kiếm tiền.
+title: Kiếm tiền tự động cùng MECAP.
 description: Giới thiệu về MEbot - trợ lý giao dịch tự động giúp bạn tạo ra lợi nhuận.
 type: featured
 image: /images/anh-bia-copy.png
