@@ -4,7 +4,7 @@ description: Bao gồm phương châm giao dịch - chiến lược chia vốn v
   tắc quản trị rủi ro
 type: post
 image: /images/rr.png
-date: 2020-11-07T11:24:19.960Z
+date: 2021-07-19T13:06:14.879Z
 categories:
   - Guide_to_start
 tags: []
