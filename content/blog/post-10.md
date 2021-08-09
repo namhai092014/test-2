@@ -40,4 +40,4 @@ Cũng dựa trên tiêu chí đảm bảo an toàn vốn, MEbot được xây d�
 
 # Theo dõi quá trình giao dịch
 
-Theo dõi trực tiếp quá trình giao dịch - cập nhật mỗi khi tài khoản giao dịch có biến động [](https://t.me/mecaptrading) đây (trang theo dõi tài khoản sẽ khả dụng từ ngày 22/7/2021)
+[Theo dõi trực tiếp quá trình giao dịch - cập nhật mỗi khi tài khoản giao dịch có biến động tại đây](https://scoreboard.ap.ngrok.io/)
