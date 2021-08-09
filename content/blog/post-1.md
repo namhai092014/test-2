@@ -33,7 +33,7 @@ Thị trường mà MECAP hiện hoạt động là thị trường tài sản m
 
 # **Tại sao lại là MECAP?**
 
-[](https://scoreboard.ap.ngrok.io/)Theo dõi trực tiếp nhật ký giao dịch cập nhật hằng ngày của MEbot
+[Theo dõi trực tiếp nhật ký giao dịch cập nhật hằng ngày của MEbot](https://scoreboard.ap.ngrok.io/)
 
 Từng trải qua nhiều giai đoạn từ tăng trưởng tới giảm giá của thị trường kỹ thuật số, đi từ giai đoạn tăng trưởng mạnh năm 2017 qua giai đoạn giảm giá mạnh năm 2018 - 2019 tới khủng hoảng và hồi phục năm 2020 rồi lặp lại giai đoạn tăng trưởng mạnh 2021, trải qua trọn vẹn 1 vòng của thị trường, đội ngũ MECAP đã có những băn khoăn và gặp phải những khó khăn và mất mát của hầu hết những người tham gia thị trường.
 
