@@ -25,6 +25,7 @@ draft: false
 
 **Giao dịch tự động bằng MEbot** là sử dụng trợ lý giao dịch MEbot do đội ngũ MECAP nghiên cứu và phát triển từ tháng 5/2020. Sau hơn 1 năm liên tục thử nghiệm và thử nghiệm, MEbot đã hoàn thiện được hệ logic core và đưa ra những kết quả tích cực về hiệu quả lợi nhuận cũng như nguyên tắc rủi ro. Nhà đầu tư sẽ tự nạp tiền lên sàn Binance - sàn giao dịch tài sản mã hoá uy tín số 1 thế giới trong tài khoản cá nhân, sau đó cung cấp api (mã cho phép trợ lý giao dịch tự động MEbot thực hiện các giao dịch mua và bán - đội ngũ MECAP sẽ hướng dẫn chi tiết cách làm). MEbot hoàn toàn không có quyền rút tiền khỏi tài khoản của nhà đầu tư.
 
+[Theo dõi trực tiếp nhật ký giao dịch cập nhật hằng ngày của MEbot](https://scoreboard.ap.ngrok.io/)\
 [Xem báo cáo hoạt động thử nghiệm của MEbot từ 8/2017 đến 7/2021](https://drive.google.com/file/d/1l3orJumzYqCpR7koJs_G8aeePReBrYua/view?usp=sharing)
 
 Thị trường mà MECAP hiện hoạt động là thị trường tài sản mã hoá kỹ thuật số - crypto currency. Tại đây MECAP sẽ thực hiện các hoạt động mua bán trên nền tảng sàn giao dịch SnapEx Pro, một sàn giao dịch nền tảng có uy tín đã hoạt động lâu năm và có cộng đồng lớn tại nhiều nước trên thế giới. Lý do MECAP sử dụng sàn giao dịch SnapEx là vì giao diện và cơ chế giao dịch của sàn này phù hợp với chiến lược giao dịch độc đáo của MECAP. Để tạo ra lợi nhuận, MECAP sẽ thực hiện các giao dịch mua & bán một cách hợp lý và hưởng phần chênh lệch giữa các giao dịch đó, đem lợi nhuận về cho các nhà đầu tư. Nhà đầu tư có thể theo dõi hiệu quả giao dịch của tài khoản cá nhân và của các nhà đầu tư khác trên trang scoreboard của chúng tôi.
@@ -53,11 +54,11 @@ Mặc dù những thành viên trong đội ngũ MECAP đã có thể đứng tr
 
 * Lợi nhuận dành cho quý nhà đầu tư:
 
-  * Từ 10 ~ 50%/quý. (trung bình tối thiểu 5%/tháng và tối đa 15%/tháng trên tổng tài khoản, chưa tính lãi kép).
+  * Từ 10 ~ 50%/quý. (trung bình tối thiểu 5%/tháng và tối đa 25%/tháng trên tổng tài khoản, chưa tính lãi kép).
   * Các số liệu tài khoản sẽ được tổng kết hàng tháng và lợi nhuận sẽ trả về cho nhà đầu tư mỗi quý (3 tháng 1 lần).
 * Chia sẻ lợi nhuận với quỹ và đội ngũ quản lý:
 
-  \- Quý nhà đầu tư đồng ý chia sẻ 32% lợi nhuận từ khoản đầu tư của mình nếu không tính lãi kép
+  \- Quý nhà đầu tư đồng ý chia sẻ 32% lợi nhuận từ khoản đầu tư của mình nếu không tính lãi kép.
 
   \- Trường hợp nhà đầu tư đồng ý ký hợp đồng tối thiểu 2 năm với mong muốn giao dịch lãi kép, đội ngũ MECAP sẽ chỉ nhận 17% lợi nhuận, gửi lại 15% còn lại trên tài khoản của nhà đầu tư để đồng hành cùng nhà đầu tư tạo lợi nhuận kép.
 * Cam kết rủi ro dành cho nhà đầu tư:
@@ -89,14 +90,14 @@ Tìm hiểu kỹ hơn về **[bộ nguyên tắc quản trị rủi ro](https://
   \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
 * **Nhà đầu tư cá mập**: Từ 20.000 USDT ~ 50.000 USDT
 
-  \- Sử dụng chiến lược nâng cao có áp dụng lãi kép (nếu nhà đầu tư mong muốn), đem lại lợi nhuận từ 23%/quý (có thể lên tới ~ 40%/quý với lãi kép).
+  \- Sử dụng chiến lược nâng cao có áp dụng lãi kép (nếu nhà đầu tư mong muốn), đem lại lợi nhuận từ 23%/quý (có thể lên tới ~ 47%/quý chưa tính lãi kép).
 
   \- MEbot  cài đặt trên tài khoản riêng của nhà đầu tư.
 
   \- Tài sản đền bù đảm bảo của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
 * **Nhà đầu tư cá voi lớn**: Từ 50.000 USDT
 
-  \- Sử dụng chiến lược tối ưu trong từng giai đoạn riêng biệt của thị trường, đem lại lợi nhuận lên tới 30%/quý (có thể lên tới ~50%/quý với lãi kép).
+  \- Sử dụng chiến lược tối ưu trong từng giai đoạn riêng biệt của thị trường, đem lại lợi nhuận lên tới 30%/quý (có thể lên tới ~60%/quý chưa tính lãi kép).
 
   \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
 
