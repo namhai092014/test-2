@@ -21,8 +21,8 @@ draft: false
 
 Với phương châm tập trung vào giảm thiểu rủi ro tới mức tối đa. MECAP sẽ không bao giờ sử dụng toàn bộ số vốn để giao dịch.
 
-Số vốn sử dụng cho mỗi giao dịch là 1/300 ~ 1/200 tài khoản, tương đương với 0.33% đến 0.5% tài khoản cho mỗi lệnh. \
-VD: Tài khoản giao dịch là 100.000 USDT => 1 lệnh chỉ giao dịch từ 300 ~ 500 USDT.
+Số vốn sử dụng cho mỗi giao dịch là 1/500 ~ 1/400 tài khoản, tương đương với 0.2% đến 0.25% tài khoản cho mỗi lệnh. \
+VD: Tài khoản giao dịch là 100.000 USDT => 1 lệnh chỉ giao dịch từ 200 ~ 250 USDT.
 
 Vậy tại sao lại cần số vốn lớn? Vì hệ logic core  của MEbot lên kế hoạch và đặt lệnh sẵn cho các trường hợp biến động của giá, do vậy sẽ có những thời điểm cần phải đặt rất nhiều lệnh, điều này yêu cầu một số vốn lớn có sẵn trong tài khoản.
 
