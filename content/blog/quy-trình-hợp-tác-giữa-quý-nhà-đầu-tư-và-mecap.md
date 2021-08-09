@@ -16,36 +16,9 @@ Hướng dẫn từ A - Z từng bước quy trình hợp tác giữa quý nhà 
 
 MECAP sẽ chịu trách nhiệm quản lý trợ lý giao dịch tự động MEbot, bao gồm việc quản lý vốn và giao dịch mua - bán để tạo lợi nhuận dựa theo **[bộ nguyên tắc quản trị rủi ro.](https://mecap.vn/blog/post-10/)**
 
-Việc giao dịch sẽ được thực hiện hoàn toàn bởi MEbot trên sàn Binance, được báo cáo hàng ngày tại đây (trang scoreboard theo dõi biến động tài khoản chung sẽ khả dụng từ ngày 22/7/2021)
+Việc giao dịch sẽ được thực hiện hoàn toàn bởi MEbot trên sàn Binance, được báo cáo hàng ngày [tại đây](https://scoreboard.ap.ngrok.io/) 
 
-### 2. Các hạng mức tài khoản uỷ thác
-
-* **Hạng mức cộng đồng**: Từ 1.000 USDT
-
-  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận khoảng 18%/quý.
-
-  \- Ký gửi tài sản vào tài khoản quỹ MEbot, sẽ mở mỗi quý.
-* **Hạng mức tiêu chuẩn**: Từ 10.000 USDT
-
-  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận khoảng 18%/quý.
-
-  \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
-* **Nhà đầu tư cá mập**: Từ 20.000 USDT ~ 50.000 USDT
-
-  \- Sử dụng chiến lược nâng cao có áp dụng lãi kép (nếu nhà đầu tư mong muốn), đem lại lợi nhuận từ 23%/quý (có thể lên tới ~ 40%/quý với lãi kép).
-
-  \- MEbot cài đặt trên tài khoản riêng của nhà đầu tư.
-
-  \- Tài sản đền bù đảm bảo của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
-* **Nhà đầu tư cá voi lớn**: Từ 50.000 USDT
-
-  \- Sử dụng chiến lược tối ưu trong từng giai đoạn riêng biệt của thị trường, đem lại lợi nhuận lên tới 30%/quý (có thể lên tới ~50%/quý với lãi kép).
-
-  \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
-
-  \- Tài sản đền bù bảo đảm của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
-
-### 3. Điều khoản chia sẻ lợi nhuận - rủi ro với quý nhà đầu tư
+### 2. Điều khoản chia sẻ lợi nhuận - rủi ro với quý nhà đầu tư
 
 * Lợi nhuận dành cho quý nhà đầu tư:
 
@@ -62,9 +35,37 @@ Việc giao dịch sẽ được thực hiện hoàn toàn bởi MEbot trên sà
   \- Cam kết tổng kết quý không lỗ quá 12% tài khoản đầu tư (nếu có). 
 
   \- **Trường hợp kết thúc hợp đồng mà tài khoản sử dụng bot thua lỗ, MECAP sẽ có trách nhiệm đền bù 25% số tài sản thua lỗ. Đây là con số phù hợp vì xét trên số % lợi nhuận quý nhà đầu tư chia sẻ với MECAP** (áp dụng với 1 số hạng mức tài khoản nhất định).
-* \- Điều khoản "High Watermark": chỉ những khoản lợi nhuận vượt mức tài sản uỷ thác ban đầu mới được ghi nhận. VD tài khoản 10.000 USDT tăng lên 11.000 USDT sẽ được ghi nhận mức lợi nhuận là 10%, tài khoản 10.000 USDT giảm xuống 9.000 USDT rồi tăng lên lại 10.000 USDT thì không được ghi nhận lợi nhuận,
 
-#### 5. Các bước hợp tác giữa quý nhà đầu tư và MECAP
+  \- Điều khoản "High Watermark": chỉ những khoản lợi nhuận vượt mức tài sản uỷ thác ban đầu mới được ghi nhận. VD tài khoản 10.000 USDT tăng lên 11.000 USDT sẽ được ghi nhận mức lợi nhuận là 10%, tài khoản 10.000 USDT giảm xuống 9.000 USDT rồi tăng lên lại 10.000 USDT thì không được ghi nhận lợi nhuận,
+
+### 3. Các hạng mức tài khoản uỷ thác
+
+* **Hạng mức cộng đồng**: Từ 1.000 USDT
+
+  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận khoảng 18%/quý.
+
+  \- Ký gửi tài sản vào tài khoản quỹ MEbot, sẽ mở mỗi quý.
+* **Hạng mức tiêu chuẩn**: Từ 10.000 USDT
+
+  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận khoảng 18%/quý.
+
+  \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
+* **Nhà đầu tư cá mập**: Từ 20.000 USDT ~ 50.000 USDT
+
+  \- Sử dụng chiến lược nâng cao có áp dụng lãi kép (nếu nhà đầu tư mong muốn), đem lại lợi nhuận từ 23%/quý (có thể lên tới ~ 47%/quý chưa tính lãi kép).
+
+  \- MEbot cài đặt trên tài khoản riêng của nhà đầu tư.
+
+  \- Tài sản đền bù đảm bảo của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
+* **Nhà đầu tư cá voi lớn**: Từ 50.000 USDT
+
+  \- Sử dụng chiến lược tối ưu trong từng giai đoạn riêng biệt của thị trường, đem lại lợi nhuận lên tới 30%/quý (có thể lên tới ~60%/quý chưa tính lãi ).
+
+  \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
+
+  \- Tài sản đền bù bảo đảm của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
+
+#### 4. Các bước hợp tác giữa quý nhà đầu tư và MECAP
 
 **Bước 1**: Tìm hiểu kỹ các thông tin cần biết về MECAP:
 [Đọc thông tin về đội ngũ của MECAP](https://mecap.vn/about/)
@@ -89,7 +90,7 @@ Quý nhà đầu tư lập tài khoản Binance và chuyển tiền lên tài kh
 
 **Bước 5**: Theo dõi tăng trưởng tài khoản trực tiếp
 
-Theo dõi scoreboard tăng trưởng tài khoản cá nhân và các nhà đầu tư khác tại đây (trang scoreboard sẽ khả dụng từ 22/7/2021) 
+[Theo dõi scoreboard tăng trưởng tài khoản cá nhân và các nhà đầu tư khác tại đây](https://scoreboard.ap.ngrok.io/)
 
 **Bước 6**: Chia sẻ lợi nhuận - đền bù tổn thất (nếu có). 
 
