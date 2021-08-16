@@ -28,7 +28,7 @@ draft: false
 [Theo dõi trực tiếp nhật ký giao dịch cập nhật hằng ngày của MEbot](https://scoreboard.ap.ngrok.io/)\
 [Xem báo cáo hoạt động thử nghiệm của MEbot từ 8/2017 đến 7/2021](https://drive.google.com/file/d/1l3orJumzYqCpR7koJs_G8aeePReBrYua/view?usp=sharing)
 
-Thị trường mà MECAP hiện hoạt động là thị trường tài sản mã hoá kỹ thuật số - crypto currency. Tại đây MECAP sẽ thực hiện các hoạt động mua bán trên nền tảng sàn giao dịch SnapEx Pro, một sàn giao dịch nền tảng có uy tín đã hoạt động lâu năm và có cộng đồng lớn tại nhiều nước trên thế giới. Lý do MECAP sử dụng sàn giao dịch SnapEx là vì giao diện và cơ chế giao dịch của sàn này phù hợp với chiến lược giao dịch độc đáo của MECAP. Để tạo ra lợi nhuận, MECAP sẽ thực hiện các giao dịch mua & bán một cách hợp lý và hưởng phần chênh lệch giữa các giao dịch đó, đem lợi nhuận về cho các nhà đầu tư. Nhà đầu tư có thể theo dõi hiệu quả giao dịch của tài khoản cá nhân và của các nhà đầu tư khác trên trang scoreboard của chúng tôi.
+Thị trường mà MECAP hiện hoạt động là thị trường tài sản mã hoá kỹ thuật số - crypto currency. Tại đây MECAP sẽ thực hiện các hoạt động mua bán trên nền tảng sàn giao dịch Binance, sàn giao dịch lớn và uy tín số 1 thế giới. Để tạo ra lợi nhuận, MEbot sẽ thực hiện các giao dịch mua & bán một cách hợp lý và hưởng phần chênh lệch giữa các giao dịch đó, đem lợi nhuận về cho các nhà đầu tư. Nhà đầu tư có thể theo dõi hiệu quả giao dịch của tài khoản cá nhân và của các nhà đầu tư khác [trên trang scoreboard](https://scoreboard.ap.ngrok.io/) của chúng tôi.
 
 <hr>
 
