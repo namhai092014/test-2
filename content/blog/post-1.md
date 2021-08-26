@@ -65,7 +65,7 @@ Mặc dù những thành viên trong đội ngũ MECAP đã có thể đứng tr
 
   * Cam kết tổng kết quý không lỗ quá 12% tài khoản đầu tư (nếu có). 
   * **Trường hợp kết thúc hợp đồng mà tài khoản sử dụng bot thua lỗ, MECAP sẽ có trách nhiệm đền bù 25% số tài sản thua lỗ. Đây là con số phù hợp vì xét trên số % lợi nhuận quý nhà đầu tư chia sẻ với MECAP (áp dụng với 1 số hạng mức tài khoản nhất định).**
-  * Điều khoản "High Watermark": chỉ những khoản lợi nhuận vượt mức tài sản uỷ thác ban đầu mới được ghi nhận. VD tài khoản 10.000 USDT tăng lên 11.000 USDT sẽ được ghi nhận mức lợi nhuận là 10%, tài khoản 10.000 USDT giảm xuống 9.000 USDT rồi tăng lên lại 10.000 USDT thì không được ghi nhận lợi nhuận.
+  * Điều khoản "High Watermark": chỉ những khoản lợi nhuận vượt mức tài sản uỷ thác ban đầu mới được ghi nhận. VD tài khoản 10.000 USDT tăng lên 11.000 USDT sẽ được ghi nhận mức lợi nhuận là 10%, tài khoản 10.000 USDT giảm xuống 9.000 USDT rồi tăng lên lại 10.000 USDT thì không được ghi nhận lợi nhuận. Lợi nhuận và thua lỗ sẽ tính trên những lệnh đã chốt lời/cắt lỗ đã ghi nhận (realized PnL), những lệnh chưa chốt lời/cắt lỗ (unrealized PnL) sẽ không được ghi nhận.
 
 <hr>
 
