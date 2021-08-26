@@ -54,7 +54,7 @@ Mặc dù những thành viên trong đội ngũ MECAP đã có thể đứng tr
 
 * Lợi nhuận dành cho quý nhà đầu tư:
 
-  * Từ 10 ~ 50%/quý. (trung bình tối thiểu 5%/tháng và tối đa 25%/tháng trên tổng tài khoản, chưa tính lãi kép).
+  * Từ 10 ~ 50%/quý. (trung bình tối thiểu 2%/tháng và tối đa 25%/tháng trên tổng tài khoản, chưa tính lãi kép).
   * Các số liệu tài khoản sẽ được tổng kết hàng tháng và lợi nhuận sẽ trả về cho nhà đầu tư mỗi quý (3 tháng 1 lần).
 * Chia sẻ lợi nhuận với quỹ và đội ngũ quản lý:
 
@@ -80,24 +80,24 @@ Tìm hiểu kỹ hơn về **[bộ nguyên tắc quản trị rủi ro](https://
 
 * **Hạng mức cộng đồng**: Từ 1.000 USDT
 
-  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận khoảng 18%/quý.
+  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận tối đa 18%/quý.
 
   \- Ký gửi tài sản vào tài khoản quỹ MEbot, sẽ mở mỗi quý.
 * **Hạng mức tiêu chuẩn**: Từ 10.000 USDT
 
-  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận khoảng 18%/quý.
+  \- Sử dụng chiến lược tiêu chuẩn, đem lại lợi nhuận tối đa 18%/quý.
 
   \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
 * **Nhà đầu tư cá mập**: Từ 20.000 USDT ~ 50.000 USDT
 
-  \- Sử dụng chiến lược nâng cao có áp dụng lãi kép (nếu nhà đầu tư mong muốn), đem lại lợi nhuận từ 23%/quý (có thể lên tới ~ 47%/quý chưa tính lãi kép).
+  \- Sử dụng chiến lược nâng cao có áp dụng lãi kép (nếu nhà đầu tư mong muốn), đem lại lợi nhuận trung bình khoảng 20%/quý (có thể lên tới ~ 47%/quý chưa tính lãi kép), không có số tối đa.
 
   \- MEbot  cài đặt trên tài khoản riêng của nhà đầu tư.
 
   \- Tài sản đền bù đảm bảo của MECAP trong trường hợp thua lỗ: 25% giá trị tài sản uỷ thác.
 * **Nhà đầu tư cá voi lớn**: Từ 50.000 USDT
 
-  \- Sử dụng chiến lược tối ưu trong từng giai đoạn riêng biệt của thị trường, đem lại lợi nhuận lên tới 30%/quý (có thể lên tới ~60%/quý chưa tính lãi kép).
+  \- Sử dụng chiến lược tối ưu trong từng giai đoạn riêng biệt của thị trường, đem lại lợi nhuận trung bình khoảng 23%/quý (có thể lên tới ~60%/quý chưa tính lãi kép), không có số tối đa.
 
   \- MEbot được cài đặt trên tài khoản riêng của nhà đầu tư.
 
