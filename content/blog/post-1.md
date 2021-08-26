@@ -54,7 +54,7 @@ Mặc dù những thành viên trong đội ngũ MECAP đã có thể đứng tr
 
 * Lợi nhuận dành cho quý nhà đầu tư:
 
-  * Từ 10 ~ 50%/quý. (trung bình tối thiểu 2%/tháng và tối đa 25%/tháng trên tổng tài khoản, chưa tính lãi kép).
+  * Từ 10 ~ 50%/quý. (trung bình tối thiểu 2%/tháng và tối đa 30%/tháng trên tổng tài khoản, chưa tính lãi kép).
   * Các số liệu tài khoản sẽ được tổng kết hàng tháng và lợi nhuận sẽ trả về cho nhà đầu tư mỗi quý (3 tháng 1 lần).
 * Chia sẻ lợi nhuận với quỹ và đội ngũ quản lý:
 
